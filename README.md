@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Goutham Singh and I'm an AI-augmented software developer, from Bangalore, India.</h2>
+<h2 align="left">Crafting modern software with an AI-first mindset, from Bangalore, India.</h2>
 
 ###
 
