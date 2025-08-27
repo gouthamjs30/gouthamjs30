@@ -3,9 +3,10 @@
 ###
 
 <div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gouthamjs30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gouthamjs30&count_private=true&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&token=PAT_1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gouthamjs30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&token=PAT_1" height="150" alt="languages graph" />
 </div>
+
 
 ###
 
