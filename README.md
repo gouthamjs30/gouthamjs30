@@ -83,5 +83,5 @@
 
 ### 🕹️ Pac-Man Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gouthamjs30/gouthamjs30/output/pacman-contribution-graph.svg" alt="Pacman animation"/>
+  <img src="https://31.media.tumblr.com/58e195aff3c04ae55c0c511f90f2c54a/tumblr_mvkjqnKN0t1rgajs9o1_500.gif" alt="Pacman animation"/>
 </p>
