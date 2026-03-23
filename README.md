@@ -66,21 +66,6 @@
   </a>
 </div>
 
-###
 
-### 📊 GitHub Summary Cards
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gouthamjs30&theme=dracula" height="180" alt="GitHub Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouthamjs30&theme=dracula" height="180" alt="Top Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouthamjs30&theme=dracula" height="180" alt="Most Commit Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gouthamjs30&theme=dracula" height="180" alt="Commits by Time"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouthamjs30&theme=dracula" height="180" alt="Profile Details"/>
-</div>
 
-###
-
-### 🕹️ Pac-Man Contribution Graph
-<p align="center">
-  <img src="https://31.media.tumblr.com/58e195aff3c04ae55c0c511f90f2c54a/tumblr_mvkjqnKN0t1rgajs9o1_500.gif" alt="Pacman animation"/>
-</p>
